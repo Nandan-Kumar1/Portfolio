@@ -1,7 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@10..48,200&family=Signika+Negative&display=swap");
 * {
   padding: 0;
   margin: 0;
-  font-family: cursive;
+  font-family: "Signika Negative", sans-serif;
 }
 
 main {
